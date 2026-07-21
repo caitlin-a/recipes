@@ -51,13 +51,13 @@ single flat top-level `photos/` folder for images.
    first; if the user hasn't said which one, ask rather than guessing a new
    category into existence.
 
-4. **Filename:** kebab-case of the title, e.g. `fake-mapo-tofu.md`, saved at
-   `<category>/<name>.md`.
+4. **Filename:** snake_case of the title (md files use underscores, not
+   dashes), e.g. `fake_mapo_tofu.md`, saved at `<category>/<name>.md`.
 
 5. **Photos:** save to the top-level `photos/` folder (flat, no
-   subfolders), named to match the recipe (`fake-mapo-tofu.jpg`, or
-   `fake-mapo-tofu-1.jpg`, `-2.jpg` for multiples). Reference them from the
-   recipe file with a relative path: `![](../photos/fake-mapo-tofu.jpg)`.
+   subfolders), named to match the recipe (`fake_mapo_tofu.jpg`, or
+   `fake_mapo_tofu_1.jpg`, `_2.jpg` for multiples). Reference them from the
+   recipe file with a relative path: `![](../photos/fake_mapo_tofu.jpg)`.
 
 6. **Show the user the new file(s) before considering the task done.** Don't
    commit unless asked.
