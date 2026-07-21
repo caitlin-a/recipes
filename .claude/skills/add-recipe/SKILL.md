@@ -12,11 +12,16 @@ single flat top-level `photos/` folder for images.
 ## Steps
 
 1. **Identify the source and extract the raw content.**
-   - **Word doc (.doc/.docx):** these aren't plain text — don't try to Read
-     them directly. Convert first, e.g. `textutil -convert txt -stdout
+   - **Word doc (.doc/.docx), text:** these aren't plain text — don't try to
+     Read them directly. Convert first, e.g. `textutil -convert txt -stdout
      file.docx` (macOS) or `pandoc file.docx -t markdown`, then read the
      converted output. A single doc may contain multiple recipes — split
      them out one at a time.
+   - **Word doc (.docx) with embedded photos:** a `.docx` is a zip archive —
+     extract images directly with `unzip file.docx -d <tmpdir>`, they'll be
+     under `<tmpdir>/word/media/`. Match each image to the recipe it
+     appeared next to in the doc text before renaming/moving it (see step
+     5).
    - **Photo of a recipe card / handwritten note:** use the Read tool
      directly on the image (it's multimodal) and transcribe the ingredients
      and method as written. Ask the user if anything is illegible rather
@@ -30,6 +35,7 @@ single flat top-level `photos/` folder for images.
 2. **Normalize into the repo format:**
    ```markdown
    # Recipe Title
+   > Source: <where this came from>
 
    Optional short notes (substitutions, provenance, caveats).
 
@@ -41,10 +47,13 @@ single flat top-level `photos/` folder for images.
 
    1. Step one.
    ```
-   Keep it plain — no calorie counts, prep-time badges, or other cruft from
-   the source. Preserve the source's own idiosyncrasies (approximate
-   quantities, "??" uncertainty, etc.) rather than tidying them into false
-   precision.
+   The `> Source:` line goes directly under the title, no blank line before
+   it. Include it whenever the source is a URL (use the actual link), and
+   otherwise only when it's obvious from context (e.g. a named shared doc)
+   — don't invent or guess one if it isn't clear. Keep the rest plain — no
+   calorie counts, prep-time badges, or other cruft from the source.
+   Preserve the source's own idiosyncrasies (approximate quantities, "??"
+   uncertainty, etc.) rather than tidying them into false precision.
 
 3. **Pick the destination folder.** Categories are loose and made up as
    needed (`chinese/`, `baking/`, etc.) — check existing folders for a fit
