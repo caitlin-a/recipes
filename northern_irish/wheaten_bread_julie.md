@@ -1,6 +1,7 @@
 ---
 status: to_try
 diet: vegetarian
+type: bake
 contains: [wheat]
 ---
 

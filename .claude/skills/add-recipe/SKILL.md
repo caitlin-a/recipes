@@ -40,6 +40,7 @@ tag in the file's YAML block (see step 2).
    ---
    status: tried
    diet: vegetarian
+   type: main
    contains: [onion, garlic]
    ---
 
@@ -56,11 +57,13 @@ tag in the file's YAML block (see step 2).
 
    1. Step one.
    ```
-   The YAML block at the very top has three fields, all required:
+   The YAML block at the very top has four fields, all required:
    - `status`: `tried` (the user has cooked it) or `to_try`. Ask if unclear.
    - `diet`: `vegan`, `vegetarian` or `omnivore`. Only say vegan or
      vegetarian if sure (e.g. marshmallows and some cheeses are not
      vegetarian); when in doubt use `omnivore`.
+   - `type`: `main`, `side`, `dessert`, `bake` (oven-baked bread, cakes,
+     biscuits) or `snack`. Soups and noodle salads count as `main`.
    - `contains`: a list using only these words: `onion` (also shallot, leek,
      spring onion), `garlic`, `chickpeas` (also hummus), `wheat` (flour,
      pasta, bread, pitta, biscuits, pastry, noodles, soy sauce, and things

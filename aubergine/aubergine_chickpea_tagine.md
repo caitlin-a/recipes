@@ -1,6 +1,7 @@
 ---
 status: tried
 diet: vegetarian
+type: main
 contains: [garlic, chickpeas]
 ---
 

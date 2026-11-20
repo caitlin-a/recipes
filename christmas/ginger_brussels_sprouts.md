@@ -1,6 +1,7 @@
 ---
 status: tried
 diet: vegan
+type: side
 contains: [onion, garlic]
 ---
 

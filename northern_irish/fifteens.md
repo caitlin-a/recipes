@@ -1,6 +1,7 @@
 ---
 status: tried
 diet: omnivore
+type: dessert
 contains: [wheat]
 ---
 

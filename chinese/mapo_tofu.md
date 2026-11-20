@@ -1,6 +1,7 @@
 ---
 status: to_try
 diet: omnivore
+type: main
 contains: [onion, garlic]
 ---
 

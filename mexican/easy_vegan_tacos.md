@@ -1,6 +1,7 @@
 ---
 status: tried
 diet: vegan
+type: main
 contains: [onion, garlic, wheat]
 ---
 
