@@ -57,11 +57,16 @@ tag in the file's YAML block (see step 2).
 
    1. Step one.
    ```
-   The YAML block at the very top has four fields, all required:
+   The YAML block at the very top has four required fields (plus the
+   optional `adaptable`):
    - `status`: `tried` (the user has cooked it) or `to_try`. Ask if unclear.
    - `diet`: `vegan`, `vegetarian` or `omnivore`. Only say vegan or
      vegetarian if sure (e.g. marshmallows and some cheeses are not
      vegetarian); when in doubt use `omnivore`.
+   - `adaptable` (optional, only when true): `[vegan]` when a vegetarian
+     recipe becomes vegan with simple swaps (oil for butter, plant milk for
+     milk, rice noodles for egg noodles). Put it on its own line straight
+     after `diet`. Leave the line out if there's no easy swap.
    - `type`: `main`, `side`, `dessert`, `bake` (oven-baked bread, cakes,
      biscuits) or `snack`. Soups and noodle salads count as `main`.
    - `contains`: a list using only these words: `onion` (also shallot, leek,

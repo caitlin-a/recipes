@@ -1,6 +1,7 @@
 ---
 status: tried
 diet: vegetarian
+adaptable: [vegan]
 type: main
 contains: [garlic, chickpeas]
 ---
