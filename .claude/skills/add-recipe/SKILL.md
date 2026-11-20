@@ -98,6 +98,8 @@ tags (see step 2), not folders.
    this", "I really like it", "not tried yet", "it was good"): the `status`
    tag already records that. Only put in things that change how to cook it,
    such as substitutions or timing notes the user asked to have added.
+   Don't repeat the source (author, book, magazine, site) in the blurb: the
+   Source line already covers it.
 
 3. **Pick the destination folder.** A recipe the user has cooked goes in the
    repo root; one she hasn't cooked (`to_try`) goes in `untested/`. No

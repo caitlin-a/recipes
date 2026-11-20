@@ -8,7 +8,7 @@ contains: [onion, garlic, wheat]
 # Aubergine Miso Roast
 > Source: https://thehappyfoodie.co.uk/recipes/miso-aubergines-with-tofu-sesame-and-chilli/
 
-Rukmini Iyer, The Green Roasting Tin. Serves 4, ~55 min. Vegan.
+Serves 4, ~55 min. Vegan.
 
 ## Ingredients
 

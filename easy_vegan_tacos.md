@@ -8,7 +8,7 @@ contains: [onion, garlic, wheat]
 # Easy Vegan Tacos
 > Source: https://www.bbcgoodfood.com/recipes/chargrilled-vegetable-tacos-smoky-salsa
 
-Sara Buenfeld, Good Food magazine, March 2018. Serves 2 (makes 4 tortillas), prep 10 min, cook 30 min. Vegan. Homemade wholemeal tortillas with a smoky kiwi and tomato salsa.
+Serves 2 (makes 4 tortillas), prep 10 min, cook 30 min. Vegan. Homemade wholemeal tortillas with a smoky kiwi and tomato salsa.
 
 ## Ingredients
 

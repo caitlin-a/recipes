@@ -8,7 +8,7 @@ contains: [wheat]
 # Fifteens
 > Source: https://www.bbcgoodfood.com/recipes/fifteens
 
-Northern Irish fridge cake, called Fifteens for obvious reasons: look at the ingredients list. A Roger Adams classic. Recipe from Good Food reader Alice Colley (Good Food magazine, August 2015). Makes 15, prep 20 min plus at least 4 hours chilling. No baking.
+Northern Irish fridge cake, called Fifteens for obvious reasons: look at the ingredients list. A Roger Adams classic. Makes 15, prep 20 min plus at least 4 hours chilling. No baking.
 
 ## Ingredients
 
