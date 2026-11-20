@@ -115,6 +115,10 @@ tags (see step 2), not folders.
    `untested/` with `![](../assets/fake_mapo_tofu.jpg)`. Only use photos the
    user took or supplied, not a publisher's photos.
 
-6. **Show the user the new file(s) before considering the task done.** Don't
+6. **Update the contents list** in `README.md`: add a link to the new recipe
+   (title as the link text), in alphabetical order, under the main list or
+   under "Untested". If a recipe moves out of `untested/`, move its link too.
+
+7. **Show the user the new file(s) before considering the task done.** Don't
    commit unless asked; if they ask for it to be added to GitHub, commit and
    push to `main`.
