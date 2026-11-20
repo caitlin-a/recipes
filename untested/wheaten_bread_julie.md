@@ -3,13 +3,12 @@ status: to_try
 diet: vegetarian
 type: bake
 contains: [wheat]
-recommended_by: roger
 ---
 
 # Wheaten Bread (Julie)
 > Source: Roger's Recipes (shared Google Doc), Julie's version
 
-Northern Irish wheaten bread, baked in loaf tins. There's another version in this folder (John's).
+Recommended by Roger. Northern Irish wheaten bread, baked in loaf tins. There's another version in this folder (John's).
 
 ## Ingredients
 

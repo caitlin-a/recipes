@@ -3,13 +3,12 @@ status: tried
 diet: vegetarian
 type: main
 contains: [onion, wheat]
-recommended_by: roger
 ---
 
 # Mustardy Sausage Bake
 > Source: Roger's Recipes (shared Google Doc)
 
-Serves 6. A one-pot bake with a sliced potato top. I use veggie sausages (the original says vegetarian or meaty).
+Recommended by Roger. Serves 6. A one-pot bake with a sliced potato top. I use veggie sausages (the original says vegetarian or meaty).
 
 ## Ingredients
 

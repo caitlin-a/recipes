@@ -3,13 +3,12 @@ status: tried
 diet: vegan
 type: main
 contains: [garlic]
-recommended_by: roger
 ---
 
 # Yellow Peas and Aubergine
 > Source: Roger's Recipes (shared Google Doc)
 
-Whipped yellow peas with spicy aubergine and fennel. Serves 4. Don't overcook the aubergine: it needs to keep its shape to contrast with the peas.
+Recommended by Roger. Whipped yellow peas with spicy aubergine and fennel. Serves 4. Don't overcook the aubergine: it needs to keep its shape to contrast with the peas.
 
 ## Ingredients
 

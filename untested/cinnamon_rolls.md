@@ -3,13 +3,12 @@ status: to_try
 diet: vegetarian
 type: bake
 contains: [wheat]
-recommended_by: roger
 ---
 
 # Cinnamon Rolls
 > Source: https://www.ambitiouskitchen.com/best-cinnamon-rolls/ (via Roger's Recipes, shared Google Doc)
 
-Makes 9, prep about 1 hr 30 min (includes rising), cook 20 min. Cups are US cups, with grams added.
+Recommended by Roger. Makes 9, prep about 1 hr 30 min (includes rising), cook 20 min. Cups are US cups, with grams added.
 
 ## Ingredients
 

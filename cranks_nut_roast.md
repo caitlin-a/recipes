@@ -4,13 +4,12 @@ diet: vegetarian
 adaptable: [vegan]
 type: main
 contains: [onion, wheat]
-recommended_by: roger
 ---
 
 # Cranks Nut Roast
 > Source: Cranks (via Roger's Recipes, shared Google Doc)
 
-Serves 4-6.
+Recommended by Roger. Serves 4-6.
 
 ## Ingredients
 

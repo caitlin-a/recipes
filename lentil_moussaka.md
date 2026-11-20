@@ -3,13 +3,12 @@ status: tried
 diet: vegetarian
 type: main
 contains: [onion, garlic, wheat]
-recommended_by: roger
 ---
 
 # Lentil Moussaka
 > Source: Roger's Recipes (shared Google Doc)
 
-Stripy lentil moussaka. Serves 4.
+Recommended by Roger. Stripy lentil moussaka. Serves 4.
 
 ## Ingredients
 

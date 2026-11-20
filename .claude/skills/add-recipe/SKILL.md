@@ -64,7 +64,7 @@ tags (see step 2), not folders.
    1. Step one.
    ```
    The YAML block at the very top has four required fields (plus the
-   optional `adaptable` and `recommended_by`):
+   optional `adaptable`):
    - `status`: `tried` (the user has cooked it) or `to_try`. Ask if unclear.
    - `diet`: `vegan`, `vegetarian` or `omnivore`. Only say vegan or
      vegetarian if sure (e.g. marshmallows and some cheeses are not
@@ -73,9 +73,6 @@ tags (see step 2), not folders.
      recipe becomes vegan with simple swaps (oil for butter, plant milk for
      milk, rice noodles for egg noodles). Put it on its own line straight
      after `diet`. Leave the line out if there's no easy swap.
-   - `recommended_by` (optional): `roger` when the recipe came from Roger's
-     Recipes (the shared Google Doc). Put it on its own line straight after
-     `contains`. Leave it out otherwise.
    - `type`: `main`, `side`, `dessert`, `bake` (oven-baked bread, cakes,
      biscuits) or `snack`. Soups and noodle salads count as `main`.
    - `contains`: a list using only these words: `onion` (also shallot, leek,
@@ -105,7 +102,8 @@ tags (see step 2), not folders.
    Source line already covers it. If the recipe came
    from Roger's Recipes (the shared Google Doc), the Source line must say so even
    when it has a link, e.g. `> Source: <url> (via Roger's Recipes, shared Google
-   Doc)`, because it means Roger recommends it.
+   Doc)`, and the blurb starts with "Recommended by Roger." because it means
+   Roger recommends it. This is a line in the blurb, not a YAML field.
 
 3. **Pick the destination folder.** A recipe the user has cooked goes in the
    repo root; one she hasn't cooked (`to_try`) goes in `untested/`. No

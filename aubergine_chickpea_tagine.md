@@ -4,13 +4,12 @@ diet: vegetarian
 adaptable: [vegan]
 type: main
 contains: [garlic, chickpeas]
-recommended_by: roger
 ---
 
 # Aubergine Chickpea Tagine
 > Source: Ghillie Basan, from my tagine book (also in Roger's Recipes, shared Google Doc)
 
-Roasted aubergine, tomato and chickpea tagine with yoghurt. Serves 4.
+Recommended by Roger. Roasted aubergine, tomato and chickpea tagine with yoghurt. Serves 4.
 
 ## Ingredients
 

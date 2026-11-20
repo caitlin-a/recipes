@@ -3,13 +3,12 @@ status: tried
 diet: omnivore
 type: main
 contains: [onion, garlic]
-recommended_by: roger
 ---
 
 # Prawn Curry
 > Source: Good Food magazine, September 2009 (via Roger's Recipes, shared Google Doc)
 
-Prawn, pea and tomato curry. Serves 4, prep 5 min, cook 15 min. A speedy seafood curry.
+Recommended by Roger. Prawn, pea and tomato curry. Serves 4, prep 5 min, cook 15 min. A speedy seafood curry.
 
 ## Ingredients
 
