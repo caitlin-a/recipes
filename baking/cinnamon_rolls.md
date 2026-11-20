@@ -32,7 +32,7 @@ Cream cheese frosting:
 
 - cream cheese, softened (4 oz, 115g)
 - unsalted butter, softened (3 tbsp)
-- powdered sugar (¾ cup, 180ml)
+- powdered sugar (¾ cup, 85g)
 - vanilla extract (½ tsp)
 
 ## Method
