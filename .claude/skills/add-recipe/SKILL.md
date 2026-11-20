@@ -5,12 +5,11 @@ description: Use when the user wants to add a recipe to this repo, from a Word d
 
 # Add recipe
 
-Adds one recipe to this repo in the repo's standard format. The top level has
-three things: `recipes/` (recipes the user has cooked, in loose category
-folders such as `recipes/soup/` or `recipes/seafood/`), `to_try/` (recipes
-not cooked yet, which can have subfolders such as `to_try/northern_irish/`),
-and `assets/` (images, in a flat `assets/photos/` folder). Each recipe is one
-markdown file.
+Adds one recipe to this repo in the repo's standard format. Recipes should be
+as few clicks away as possible: loose category folders sit at the top level
+(e.g. `soup/`, `seafood/`), each recipe is one markdown file directly inside a
+category folder, and a recipe's photo sits next to it in the same folder.
+Recipes not cooked yet go in `to_try/`.
 
 ## Steps
 
@@ -59,24 +58,21 @@ markdown file.
    uncertainty, etc.) rather than tidying them into false precision.
 
 3. **Pick the destination folder.** If the user hasn't cooked it yet, it goes
-   in `to_try/` (or a subfolder of it). Otherwise it goes in a category
-   folder under `recipes/`. Categories are loose and made up as needed
-   (`chinese/`, `baking/`, etc.) — check existing folders for a fit first; if
-   the user hasn't said which one, ask rather than guessing a new category
-   into existence.
+   in `to_try/`. Otherwise it goes in a category folder at the top level.
+   Categories are loose and made up as needed (`chinese/`, `baking/`, etc.) —
+   check existing folders for a fit first; if the user hasn't said which one,
+   ask rather than guessing a new category into existence.
 
 4. **Title and filename:** keep titles short, a few words (e.g. "Aubergine
    Miso Roast", not "Miso Aubergines with Tofu, Sesame and Chilli"). The
    filename is snake_case of the short title (md files use underscores, not
-   dashes), e.g. `fake_mapo_tofu.md`, saved at
-   `recipes/<category>/<name>.md` or `to_try/<name>.md`.
+   dashes), e.g. `fake_mapo_tofu.md`, saved at `<category>/<name>.md`.
 
-5. **Photos:** save to `assets/photos/` (flat, no subfolders), named to match
-   the recipe (`fake_mapo_tofu.jpg`, or `fake_mapo_tofu_1.jpg`, `_2.jpg` for
-   multiples). Reference them from the recipe file with a relative path:
-   `![](../../assets/photos/fake_mapo_tofu.jpg)` from a recipe at
-   `recipes/<category>/<name>.md` or `to_try/<name>.md` (one folder deep).
-   Only use photos the user took or supplied, not a publisher's photos.
+5. **Photos:** save the photo in the same folder as its recipe, named to
+   match it (`fake_mapo_tofu.jpg`, or `fake_mapo_tofu_1.jpg`, `_2.jpg` for
+   multiples). Reference it from the recipe file with a plain relative path:
+   `![](fake_mapo_tofu.jpg)`. Only use photos the user took or supplied, not
+   a publisher's photos.
 
 6. **Show the user the new file(s) before considering the task done.** Don't
    commit unless asked.
