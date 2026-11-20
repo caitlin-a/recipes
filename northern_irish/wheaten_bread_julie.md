@@ -17,7 +17,7 @@ Northern Irish wheaten bread, baked in loaf tins. There's another version in thi
 - porridge oats (2oz, 55g)
 - sugar (4oz, 115g)
 - bicarbonate of soda (3 tsp)
-- buttermilk (1 pint)
+- buttermilk (1 pint, about 570ml)
 - margarine or butter, melted (2oz, 55g)
 
 ## Method

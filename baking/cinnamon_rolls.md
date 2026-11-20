@@ -8,31 +8,31 @@ contains: [wheat]
 # Cinnamon Rolls
 > Source: https://www.ambitiouskitchen.com/best-cinnamon-rolls/
 
-Found in Roger's Recipes (shared Google Doc). Makes 9, prep about 1 hr 30 min (includes rising), cook 20 min. Quantities are in cups, as in the original.
+Found in Roger's Recipes (shared Google Doc). Makes 9, prep about 1 hr 30 min (includes rising), cook 20 min. Cups are US cups, with grams added.
 
 ## Ingredients
 
 Dough:
 
-- warm milk, 40°C (¾ cup)
+- warm milk, 40°C (¾ cup, 180ml)
 - active yeast (2¼ tsp, a ¼-ounce package, about 7g)
-- granulated sugar (¼ cup)
+- granulated sugar (¼ cup, 50g)
 - egg plus 1 egg yolk, at room temperature
-- unsalted butter, melted (¼ cup)
-- bread flour (3 cups)
+- unsalted butter, melted (¼ cup, 55g)
+- bread flour (3 cups, 360g)
 - salt (¾ tsp)
 
 Filling:
 
-- dark brown sugar (⅔ cup)
+- dark brown sugar (⅔ cup, 140g)
 - ground cinnamon (1½ tbsp)
-- unsalted butter, softened (¼ cup)
+- unsalted butter, softened (¼ cup, 55g)
 
 Cream cheese frosting:
 
 - cream cheese, softened (4 oz, 115g)
 - unsalted butter, softened (3 tbsp)
-- powdered sugar (¾ cup)
+- powdered sugar (¾ cup, 180ml)
 - vanilla extract (½ tsp)
 
 ## Method

@@ -87,7 +87,11 @@ tag in the file's YAML block (see step 2).
    Preserve the source's own idiosyncrasies (approximate quantities, "??"
    uncertainty, etc.) rather than tidying them into false precision. If a
    quantity is in ounces or pounds, keep it and add grams after it, rounded
-   to the nearest 5g, e.g. `(9oz, 255g)`.
+   to the nearest 5g, e.g. `(9oz, 255g)`. Do the same for cups (grams for dry
+   ingredients using King Arthur's ingredient weight chart, e.g. 1 cup bread
+   flour 120g, packed brown sugar 213g, icing sugar 113g, granulated sugar
+   200g, butter 227g; millilitres for liquids, using a US cup of 240ml) and
+   pints (a UK pint is 568ml).
    Don't write the user's remarks about the recipe into the file ("I've made
    this", "I really like it", "not tried yet", "it was good"): the `status`
    tag already records that. Only put in things that change how to cook it,
