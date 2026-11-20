@@ -9,7 +9,8 @@ Adds one recipe to this repo in the repo's standard format. Recipes should be
 as few clicks away as possible: loose category folders sit at the top level
 (e.g. `soup/`, `seafood/`), each recipe is one markdown file directly inside a
 category folder, and a recipe's photo sits next to it in the same folder.
-Recipes not cooked yet go in `to_try/`.
+There is no `to_try/` folder: whether a recipe has been cooked is a `status`
+tag in the file's YAML block (see step 2).
 
 ## Steps
 
@@ -36,6 +37,12 @@ Recipes not cooked yet go in `to_try/`.
 
 2. **Normalize into the repo format:**
    ```markdown
+   ---
+   status: tried
+   diet: vegetarian
+   contains: [onion, garlic]
+   ---
+
    # Recipe Title
    > Source: <where this came from>
 
@@ -49,6 +56,17 @@ Recipes not cooked yet go in `to_try/`.
 
    1. Step one.
    ```
+   The YAML block at the very top has three fields, all required:
+   - `status`: `tried` (the user has cooked it) or `to_try`. Ask if unclear.
+   - `diet`: `vegan`, `vegetarian` or `omnivore`. Only say vegan or
+     vegetarian if sure (e.g. marshmallows and some cheeses are not
+     vegetarian); when in doubt use `omnivore`.
+   - `contains`: a list using only these words: `onion` (also shallot, leek,
+     spring onion), `garlic`, `chickpeas` (also hummus), `wheat` (flour,
+     pasta, bread, pitta, biscuits, pastry, noodles, soy sauce, and things
+     that typically contain it such as veggie sausages). Tag from the listed
+     ingredients, and when in doubt include the word. Use `[]` if none.
+
    The `> Source:` line goes directly under the title, no blank line before
    it. Include it whenever the source is a URL (use the actual link), and
    otherwise only when it's obvious from context (e.g. a named shared doc)
@@ -56,12 +74,16 @@ Recipes not cooked yet go in `to_try/`.
    calorie counts, prep-time badges, or other cruft from the source.
    Preserve the source's own idiosyncrasies (approximate quantities, "??"
    uncertainty, etc.) rather than tidying them into false precision.
+   Don't write the user's remarks about the recipe into the file ("I've made
+   this", "I really like it", "not tried yet", "it was good"): the `status`
+   tag already records that. Only put in things that change how to cook it,
+   such as substitutions or timing notes the user asked to have added.
 
-3. **Pick the destination folder.** If the user hasn't cooked it yet, it goes
-   in `to_try/`. Otherwise it goes in a category folder at the top level.
-   Categories are loose and made up as needed (`chinese/`, `baking/`, etc.) —
-   check existing folders for a fit first; if the user hasn't said which one,
-   ask rather than guessing a new category into existence.
+3. **Pick the destination folder.** It goes in a category folder at the top
+   level, whether or not it has been cooked. Categories are loose and made up
+   as needed (`chinese/`, `baking/`, etc.) — check existing folders for a fit
+   first; if the user hasn't said which one, ask rather than guessing a new
+   category into existence.
 
 4. **Title and filename:** keep titles short, a few words (e.g. "Aubergine
    Miso Roast", not "Miso Aubergines with Tofu, Sesame and Chilli"). The

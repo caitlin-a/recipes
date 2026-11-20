@@ -1,7 +1,13 @@
+---
+status: tried
+diet: vegetarian
+contains: [onion, garlic, wheat]
+---
+
 # Herby Peanutty Noodly Salad
 > Source: https://rivercottage.net/recipes/herby-peanutty-noodly-salad/
 
-River Cottage recipe. Serves 4. I really like this one.
+River Cottage recipe. Serves 4.
 
 ## Ingredients
 

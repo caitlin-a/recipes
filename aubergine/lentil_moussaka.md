@@ -1,3 +1,9 @@
+---
+status: tried
+diet: vegetarian
+contains: [onion, garlic, wheat]
+---
+
 # Lentil Moussaka
 > Source: Roger's Recipes (shared Google Doc)
 

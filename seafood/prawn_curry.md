@@ -1,3 +1,9 @@
+---
+status: tried
+diet: omnivore
+contains: [onion, garlic]
+---
+
 # Prawn Curry
 > Source: Good Food magazine, September 2009 (via Roger's Recipes, shared Google Doc)
 

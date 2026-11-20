@@ -1,3 +1,9 @@
+---
+status: tried
+diet: vegetarian
+contains: [garlic, chickpeas]
+---
+
 # Aubergine Chickpea Tagine
 > Source: Ghillie Basan, from my tagine book (also in Roger's Recipes, shared Google Doc)
 

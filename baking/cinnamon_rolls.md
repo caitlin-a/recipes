@@ -1,7 +1,13 @@
+---
+status: to_try
+diet: vegetarian
+contains: [wheat]
+---
+
 # Cinnamon Rolls
 > Source: https://www.ambitiouskitchen.com/best-cinnamon-rolls/
 
-Found in Roger's Recipes (shared Google Doc). Makes 9, prep about 1 hr 30 min (includes rising), cook 20 min. Not tried yet. Quantities are in cups, as in the original.
+Found in Roger's Recipes (shared Google Doc). Makes 9, prep about 1 hr 30 min (includes rising), cook 20 min. Quantities are in cups, as in the original.
 
 ## Ingredients
 

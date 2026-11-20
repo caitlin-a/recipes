@@ -1,3 +1,9 @@
+---
+status: tried
+diet: vegetarian
+contains: [garlic, wheat]
+---
+
 # Crispy Gnocchi
 > Source: https://thehappyfoodie.co.uk/recipes/crispy-gnocchi-with-roasted-peppers-chilli-rosemary-and-ricotta/
 

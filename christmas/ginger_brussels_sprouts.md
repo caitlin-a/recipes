@@ -1,3 +1,9 @@
+---
+status: tried
+diet: vegan
+contains: [onion, garlic]
+---
+
 # Ginger Brussels Sprouts
 > Source: Riverford (via Roger's Recipes, shared Google Doc)
 

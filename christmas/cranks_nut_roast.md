@@ -1,3 +1,9 @@
+---
+status: tried
+diet: vegetarian
+contains: [onion, wheat]
+---
+
 # Cranks Nut Roast
 > Source: Cranks (via Roger's Recipes, shared Google Doc)
 

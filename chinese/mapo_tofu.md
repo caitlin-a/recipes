@@ -1,7 +1,13 @@
+---
+status: to_try
+diet: omnivore
+contains: [onion, garlic]
+---
+
 # Mapo Tofu
 > Source: https://www.theguardian.com/food/2020/jan/22/how-to-cook-the-perfect-mapo-tofu-recipe-felicity-cloake
 
-Felicity Cloake's perfect mapo tofu, from Roger's Recipes (shared Google Doc). Serves 2, prep 10 min, cook 7 min. Not tried yet. Uses a little meat mince.
+Felicity Cloake's perfect mapo tofu, from Roger's Recipes (shared Google Doc). Serves 2, prep 10 min, cook 7 min. Uses a little meat mince.
 
 ## Ingredients
 

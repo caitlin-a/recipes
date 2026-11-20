@@ -1,3 +1,9 @@
+---
+status: tried
+diet: vegan
+contains: [onion, garlic, wheat]
+---
+
 # Easy Vegan Tacos
 > Source: https://www.bbcgoodfood.com/recipes/chargrilled-vegetable-tacos-smoky-salsa
 

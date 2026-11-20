@@ -1,3 +1,9 @@
+---
+status: tried
+diet: vegetarian
+contains: [onion, garlic]
+---
+
 # Leek and Potato Soup
 > Source: https://www.enfieldveg.co.uk/recipes/leek-and-potato-soup
 

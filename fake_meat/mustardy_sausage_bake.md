@@ -1,3 +1,9 @@
+---
+status: tried
+diet: vegetarian
+contains: [onion, wheat]
+---
+
 # Mustardy Sausage Bake
 > Source: Roger's Recipes (shared Google Doc)
 

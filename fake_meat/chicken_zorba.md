@@ -1,3 +1,9 @@
+---
+status: tried
+diet: vegetarian
+contains: [garlic, chickpeas, wheat]
+---
+
 # Chicken Zorba
 > Source: Roger's Recipes (shared Google Doc)
 

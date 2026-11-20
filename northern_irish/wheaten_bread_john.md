@@ -1,7 +1,13 @@
+---
+status: to_try
+diet: vegetarian
+contains: [wheat]
+---
+
 # Wheaten Bread (John)
 > Source: Roger's Recipes (shared Google Doc), John's version
 
-Northern Irish wheaten bread, shaped as a round loaf. Not tried yet. There's another version in this folder (Julie's).
+Northern Irish wheaten bread, shaped as a round loaf. There's another version in this folder (Julie's).
 
 ## Ingredients
 
