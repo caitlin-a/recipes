@@ -8,10 +8,10 @@ description: Use when the user wants to add a recipe to this repo, from a Word d
 Adds one recipe to this repo in the repo's standard format. Recipes should be
 as few clicks away as possible: there are no category folders. Every recipe
 the user has cooked is one markdown file directly in the repo root, and its
-photo sits next to it. Recipes she hasn't cooked yet (`status: to_try`) live
+photo goes in `assets/`. Recipes she hasn't cooked yet (`status: to_try`) live
 flat in `untested/`, so nobody browsing the repo mistakes them for recipes she
 recommends. When she has cooked one, change its `status` to `tried` and move
-it (and its photo) into the repo root. Finding things is done with the YAML
+it into the repo root (its photo stays in `assets/`). Finding things is done with the YAML
 tags (see step 2), not folders.
 
 ## Steps
@@ -108,11 +108,12 @@ tags (see step 2), not folders.
    filename is snake_case of the short title (md files use underscores, not
    dashes), e.g. `fake_mapo_tofu.md`, saved at `<name>.md` (or `untested/<name>.md`).
 
-5. **Photos:** save the photo in the same folder as its recipe (the repo root, or `untested/`), named to
-   match it (`fake_mapo_tofu.jpg`, or `fake_mapo_tofu_1.jpg`, `_2.jpg` for
-   multiples). Reference it from the recipe file with a plain relative path:
-   `![](fake_mapo_tofu.jpg)`. Only use photos the user took or supplied, not
-   a publisher's photos.
+5. **Photos:** save the photo in the top-level `assets/` folder (flat, no
+   subfolders), named to match the recipe (`fake_mapo_tofu.jpg`, or
+   `fake_mapo_tofu_1.jpg`, `_2.jpg` for multiples). Reference it from a recipe
+   in the repo root with `![](assets/fake_mapo_tofu.jpg)`, or from a recipe in
+   `untested/` with `![](../assets/fake_mapo_tofu.jpg)`. Only use photos the
+   user took or supplied, not a publisher's photos.
 
 6. **Show the user the new file(s) before considering the task done.** Don't
    commit unless asked; if they ask for it to be added to GitHub, commit and

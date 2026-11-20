@@ -11,7 +11,7 @@ contains: [onion, garlic]
 
 Serves about 5, ~35 min. Adapted from Delia Smith's leek and potato soup. Changes: added red chilli, whole garlic and bay leaves, loads of salt and pepper, a bit less milk, an extra potato, crème fraîche in the bowl rather than on top.
 
-![](leek_and_potato_soup.jpg)
+![](assets/leek_and_potato_soup.jpg)
 
 ## Ingredients
 
