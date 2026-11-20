@@ -1,4 +1,4 @@
-# Crispy Gnocchi with Roasted Peppers, Chilli, Rosemary and Ricotta
+# Crispy Gnocchi
 > Source: https://thehappyfoodie.co.uk/recipes/crispy-gnocchi-with-roasted-peppers-chilli-rosemary-and-ricotta/
 
 Rukmini Iyer, The Green Roasting Tin. Serves 2 generously, ~45 min. Use a very large, ideally metal, roasting tin for the crispiest gnocchi.

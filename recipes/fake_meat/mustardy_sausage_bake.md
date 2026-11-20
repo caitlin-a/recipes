@@ -1,4 +1,4 @@
-# Mustardy Sausage and Bean Bake
+# Mustardy Sausage Bake
 > Source: Roger's Recipes (shared Google Doc)
 
 Serves 6. A one-pot bake with a sliced potato top. I use veggie sausages (the original says vegetarian or meaty).

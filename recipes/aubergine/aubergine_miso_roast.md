@@ -1,4 +1,4 @@
-# Miso Aubergines with Tofu, Sesame and Chilli
+# Aubergine Miso Roast
 > Source: https://thehappyfoodie.co.uk/recipes/miso-aubergines-with-tofu-sesame-and-chilli/
 
 Rukmini Iyer, The Green Roasting Tin. Serves 4, ~55 min. Vegan.
