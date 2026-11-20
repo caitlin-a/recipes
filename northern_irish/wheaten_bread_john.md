@@ -12,9 +12,9 @@ Northern Irish wheaten bread, shaped as a round loaf. There's another version in
 
 ## Ingredients
 
-- coarse wholemeal flour (9oz)
-- plain flour (9oz)
-- coarse porridge oats (5oz)
+- coarse wholemeal flour (9oz, 255g)
+- plain flour (9oz, 255g)
+- coarse porridge oats (5oz, 140g)
 - bicarbonate of soda (2 heaped tsp)
 - salt (pinch)
 - black treacle (1 tbsp)

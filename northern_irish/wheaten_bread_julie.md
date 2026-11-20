@@ -12,13 +12,13 @@ Northern Irish wheaten bread, baked in loaf tins. There's another version in thi
 
 ## Ingredients
 
-- medium or coarse wholemeal flour (18oz)
-- plain flour (4oz)
-- porridge oats (2oz)
-- sugar (4oz)
+- medium or coarse wholemeal flour (18oz, 510g)
+- plain flour (4oz, 115g)
+- porridge oats (2oz, 55g)
+- sugar (4oz, 115g)
 - bicarbonate of soda (3 tsp)
 - buttermilk (1 pint)
-- margarine or butter, melted (2oz)
+- margarine or butter, melted (2oz, 55g)
 
 ## Method
 

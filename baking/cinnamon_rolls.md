@@ -15,7 +15,7 @@ Found in Roger's Recipes (shared Google Doc). Makes 9, prep about 1 hr 30 min (i
 Dough:
 
 - warm milk, 40°C (¾ cup)
-- active yeast (2¼ tsp, a ¼-ounce package)
+- active yeast (2¼ tsp, a ¼-ounce package, about 7g)
 - granulated sugar (¼ cup)
 - egg plus 1 egg yolk, at room temperature
 - unsalted butter, melted (¼ cup)
@@ -30,7 +30,7 @@ Filling:
 
 Cream cheese frosting:
 
-- cream cheese, softened (4 oz)
+- cream cheese, softened (4 oz, 115g)
 - unsalted butter, softened (3 tbsp)
 - powdered sugar (¾ cup)
 - vanilla extract (½ tsp)

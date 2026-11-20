@@ -85,7 +85,9 @@ tag in the file's YAML block (see step 2).
    — don't invent or guess one if it isn't clear. Keep the rest plain — no
    calorie counts, prep-time badges, or other cruft from the source.
    Preserve the source's own idiosyncrasies (approximate quantities, "??"
-   uncertainty, etc.) rather than tidying them into false precision.
+   uncertainty, etc.) rather than tidying them into false precision. If a
+   quantity is in ounces or pounds, keep it and add grams after it, rounded
+   to the nearest 5g, e.g. `(9oz, 255g)`.
    Don't write the user's remarks about the recipe into the file ("I've made
    this", "I really like it", "not tried yet", "it was good"): the `status`
    tag already records that. Only put in things that change how to cook it,
