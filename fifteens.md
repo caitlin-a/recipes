@@ -8,7 +8,7 @@ contains: [wheat]
 # Fifteens
 > Source: https://www.bbcgoodfood.com/recipes/fifteens
 
-Northern Irish fridge cake with digestives, marshmallows and glacé cherries, shared by Good Food reader Alice Colley (Good Food magazine, August 2015). Makes 15, prep 20 min plus at least 4 hours chilling. No baking.
+Northern Irish fridge cake, called Fifteens because it's 15 of each: 15 digestives, 15 marshmallows and 15 glacé cherries, cut into 15 slices, so the quantities are easy to remember. Recipe from Good Food reader Alice Colley (Good Food magazine, August 2015). Makes 15, prep 20 min plus at least 4 hours chilling. No baking.
 
 ## Ingredients
 
