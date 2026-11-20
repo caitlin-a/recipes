@@ -33,7 +33,11 @@ tag in the file's YAML block (see step 2).
      not a source to transcribe — pair it with whatever text source (doc,
      dictation, web link) actually has the ingredients/method.
    - **Web link:** fetch it and extract ingredients + method, dropping site
-     cruft (ads, story preamble, nutrition widgets).
+     cruft (ads, story preamble, nutrition widgets). Some sites (e.g. BBC
+     Good Food) can't be fetched: ask the user to upload the page saved as an
+     `.mht` file. It's MIME-encoded HTML, so parse it with Python's `email`
+     module (`email.message_from_binary_file`, take the `text/html` part),
+     strip the tags, and read the ingredients and method from the text.
 
 2. **Normalize into the repo format:**
    ```markdown
@@ -105,4 +109,5 @@ tag in the file's YAML block (see step 2).
    a publisher's photos.
 
 6. **Show the user the new file(s) before considering the task done.** Don't
-   commit unless asked.
+   commit unless asked; if they ask for it to be added to GitHub, commit and
+   push to `main`.
