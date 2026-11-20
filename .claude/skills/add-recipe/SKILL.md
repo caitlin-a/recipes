@@ -10,10 +10,9 @@ as few clicks away as possible: loose category folders sit at the top level
 (e.g. `soup/`, `seafood/`), each recipe is one markdown file directly inside a
 category folder, and a recipe's photo sits next to it in the same folder.
 The exception is recipes the user hasn't cooked yet (`status: to_try`): these
-live in `untested/`, in the same kind of category folders (e.g.
-`untested/chinese/`), so nobody browsing the repo mistakes them for
+live flat in `untested/` (no category subfolders), so nobody browsing the repo mistakes them for
 recipes she recommends. When she has cooked one, change its `status` to
-`tried` and move it (and its photo) up into the top-level category folder.
+`tried` and move it (and its photo) into a top-level category folder.
 
 ## Steps
 
@@ -101,8 +100,8 @@ recipes she recommends. When she has cooked one, change its `status` to
    such as substitutions or timing notes the user asked to have added.
 
 3. **Pick the destination folder.** A recipe the user has cooked goes in a
-   category folder at the top level; one she hasn't cooked (`to_try`) goes in
-   the matching category folder inside `untested/` instead. Categories are loose and
+   category folder at the top level; one she hasn't cooked (`to_try`) goes flat
+   in `untested/` instead, with no category subfolder. Categories are loose and
    made up as needed (`chinese/`, `baking/`, etc.) — check existing folders for a fit
    first; if the user hasn't said which one, ask rather than guessing a new
    category into existence.
