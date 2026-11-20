@@ -9,8 +9,10 @@ Adds one recipe to this repo in the repo's standard format. Recipes should be
 as few clicks away as possible: loose category folders sit at the top level
 (e.g. `soup/`, `seafood/`), each recipe is one markdown file directly inside a
 category folder, and a recipe's photo sits next to it in the same folder.
-There is no `to_try/` folder: whether a recipe has been cooked is a `status`
-tag in the file's YAML block (see step 2).
+The exception is recipes the user hasn't cooked yet (`status: to_try`): these
+live flat in `untested/`, so nobody browsing the repo mistakes them for
+recipes she recommends. When she has cooked one, change its `status` to
+`tried` and move it (and its photo) into a category folder.
 
 ## Steps
 
@@ -97,9 +99,10 @@ tag in the file's YAML block (see step 2).
    tag already records that. Only put in things that change how to cook it,
    such as substitutions or timing notes the user asked to have added.
 
-3. **Pick the destination folder.** It goes in a category folder at the top
-   level, whether or not it has been cooked. Categories are loose and made up
-   as needed (`chinese/`, `baking/`, etc.) — check existing folders for a fit
+3. **Pick the destination folder.** A recipe the user has cooked goes in a
+   category folder at the top level; one she hasn't cooked (`to_try`) goes in
+   `untested/` instead, with no category subfolder. Categories are loose and
+   made up as needed (`chinese/`, `baking/`, etc.) — check existing folders for a fit
    first; if the user hasn't said which one, ask rather than guessing a new
    category into existence.
 
