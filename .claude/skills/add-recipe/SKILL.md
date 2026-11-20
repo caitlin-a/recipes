@@ -99,7 +99,10 @@ tags (see step 2), not folders.
    tag already records that. Only put in things that change how to cook it,
    such as substitutions or timing notes the user asked to have added.
    Don't repeat the source (author, book, magazine, site) in the blurb: the
-   Source line already covers it.
+   Source line already covers it. If the recipe came
+   from Roger's Recipes (the shared Google Doc), the Source line must say so even
+   when it has a link, e.g. `> Source: <url> (via Roger's Recipes, shared Google
+   Doc)`, because it means Roger recommends it.
 
 3. **Pick the destination folder.** A recipe the user has cooked goes in the
    repo root; one she hasn't cooked (`to_try`) goes in `untested/`. No
