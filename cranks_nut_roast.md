@@ -4,6 +4,7 @@ diet: vegetarian
 adaptable: [vegan]
 type: main
 contains: [onion, wheat]
+recommended_by: roger
 ---
 
 # Cranks Nut Roast

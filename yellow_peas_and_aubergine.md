@@ -3,6 +3,7 @@ status: tried
 diet: vegan
 type: main
 contains: [garlic]
+recommended_by: roger
 ---
 
 # Yellow Peas and Aubergine

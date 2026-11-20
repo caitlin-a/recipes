@@ -3,6 +3,7 @@ status: tried
 diet: vegetarian
 type: main
 contains: [garlic, chickpeas, wheat]
+recommended_by: roger
 ---
 
 # Chicken Zorba

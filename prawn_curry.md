@@ -3,6 +3,7 @@ status: tried
 diet: omnivore
 type: main
 contains: [onion, garlic]
+recommended_by: roger
 ---
 
 # Prawn Curry

@@ -4,6 +4,7 @@ diet: vegetarian
 adaptable: [vegan]
 type: main
 contains: [garlic, chickpeas]
+recommended_by: roger
 ---
 
 # Aubergine Chickpea Tagine

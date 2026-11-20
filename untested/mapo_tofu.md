@@ -3,6 +3,7 @@ status: to_try
 diet: omnivore
 type: main
 contains: [onion, garlic]
+recommended_by: roger
 ---
 
 # Mapo Tofu

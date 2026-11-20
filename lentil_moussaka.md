@@ -3,6 +3,7 @@ status: tried
 diet: vegetarian
 type: main
 contains: [onion, garlic, wheat]
+recommended_by: roger
 ---
 
 # Lentil Moussaka
