@@ -8,7 +8,7 @@ contains: [onion, garlic]
 # Prawn Curry
 > Source: Good Food magazine, September 2009 (via Roger's Recipes, shared Google Doc)
 
-Recommended by Roger. Prawn, pea and tomato curry. Serves 4, prep 5 min, cook 15 min. A speedy seafood curry.
+Prawn, pea and tomato curry. Serves 4, prep 5 min, cook 15 min. A speedy seafood curry.
 
 ## Ingredients
 

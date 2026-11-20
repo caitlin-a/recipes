@@ -9,7 +9,7 @@ contains: [onion, wheat]
 # Cranks Nut Roast
 > Source: Cranks (via Roger's Recipes, shared Google Doc)
 
-Recommended by Roger. Serves 4-6.
+Serves 4-6.
 
 ## Ingredients
 

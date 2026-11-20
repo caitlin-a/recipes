@@ -8,7 +8,7 @@ contains: [onion, garlic, wheat]
 # Lentil Moussaka
 > Source: Roger's Recipes (shared Google Doc)
 
-Recommended by Roger. Stripy lentil moussaka. Serves 4.
+Stripy lentil moussaka. Serves 4.
 
 ## Ingredients
 

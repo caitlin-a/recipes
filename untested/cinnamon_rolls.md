@@ -8,7 +8,7 @@ contains: [wheat]
 # Cinnamon Rolls
 > Source: https://www.ambitiouskitchen.com/best-cinnamon-rolls/ (via Roger's Recipes, shared Google Doc)
 
-Recommended by Roger. Makes 9, prep about 1 hr 30 min (includes rising), cook 20 min. Cups are US cups, with grams added.
+Makes 9, prep about 1 hr 30 min (includes rising), cook 20 min. Cups are US cups, with grams added.
 
 ## Ingredients
 

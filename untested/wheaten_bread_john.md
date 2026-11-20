@@ -8,7 +8,7 @@ contains: [wheat]
 # Wheaten Bread (John)
 > Source: Roger's Recipes (shared Google Doc), John's version
 
-Recommended by Roger. Northern Irish wheaten bread, shaped as a round loaf. There's another version in this folder (Julie's).
+Northern Irish wheaten bread, shaped as a round loaf. There's another version in this folder (Julie's).
 
 ## Ingredients
 

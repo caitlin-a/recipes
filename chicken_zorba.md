@@ -8,7 +8,7 @@ contains: [garlic, chickpeas, wheat]
 # Chicken Zorba
 > Source: Roger's Recipes (shared Google Doc)
 
-Recommended by Roger. Serves 4. Prep 15 min, cook 15 min, plus marinating. Lime and cumin marinated chicken in pitta with a hummus and yoghurt dip. I make it with Quorn chicken pieces instead of chicken. Rather than marinating for an hour, I defrost the Quorn in the microwave and let it soak in the marinade for a bit.
+Serves 4. Prep 15 min, cook 15 min, plus marinating. Lime and cumin marinated chicken in pitta with a hummus and yoghurt dip. I make it with Quorn chicken pieces instead of chicken. Rather than marinating for an hour, I defrost the Quorn in the microwave and let it soak in the marinade for a bit.
 
 ## Ingredients
 

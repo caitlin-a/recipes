@@ -8,7 +8,7 @@ contains: [onion, garlic]
 # Ginger Brussels Sprouts
 > Source: Riverford (via Roger's Recipes, shared Google Doc)
 
-Recommended by Roger. Wok-fried Brussels sprouts with ginger. Serves 4.
+Wok-fried Brussels sprouts with ginger. Serves 4.
 
 Roger's notes: add soy sauce too. If you don't have crystallised ginger (it adds a touch of sweetness), use more fresh ginger and a pinch of sugar or a little honey instead.
 

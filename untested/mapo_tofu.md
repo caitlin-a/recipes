@@ -8,7 +8,7 @@ contains: [onion, garlic]
 # Mapo Tofu
 > Source: https://www.theguardian.com/food/2020/jan/22/how-to-cook-the-perfect-mapo-tofu-recipe-felicity-cloake (via Roger's Recipes, shared Google Doc)
 
-Recommended by Roger. Serves 2, prep 10 min, cook 7 min. Uses a little meat mince.
+Serves 2, prep 10 min, cook 7 min. Uses a little meat mince.
 
 ## Ingredients
 

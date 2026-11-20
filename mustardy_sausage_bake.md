@@ -8,7 +8,7 @@ contains: [onion, wheat]
 # Mustardy Sausage Bake
 > Source: Roger's Recipes (shared Google Doc)
 
-Recommended by Roger. Serves 6. A one-pot bake with a sliced potato top. I use veggie sausages (the original says vegetarian or meaty).
+Serves 6. A one-pot bake with a sliced potato top. I use veggie sausages (the original says vegetarian or meaty).
 
 ## Ingredients
 

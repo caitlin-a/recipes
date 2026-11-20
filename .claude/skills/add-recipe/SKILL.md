@@ -100,10 +100,10 @@ tags (see step 2), not folders.
    such as substitutions or timing notes the user asked to have added.
    Don't repeat the source (author, book, magazine, site) in the blurb: the
    Source line already covers it. If the recipe came
-   from Roger's Recipes (the shared Google Doc), the Source line must say so even
-   when it has a link, e.g. `> Source: <url> (via Roger's Recipes, shared Google
-   Doc)`, and the blurb starts with "Recommended by Roger." because it means
-   Roger recommends it. This is a line in the blurb, not a YAML field.
+   from Roger's Recipes (the shared Google Doc), the Source line must say so
+   even when it has a link, e.g. `> Source: <url> (via Roger's Recipes, shared
+   Google Doc)`, because it means Roger recommends it. Don't add a
+   "recommended by" line to the blurb or a YAML field.
 
 3. **Pick the destination folder.** A recipe the user has cooked goes in the
    repo root; one she hasn't cooked (`to_try`) goes in `untested/`. No
